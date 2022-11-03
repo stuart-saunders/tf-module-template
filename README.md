@@ -1,1 +1,3 @@
-# tf-module-template
+# Terraform Module Template
+
+Starter template for Terraform modules
